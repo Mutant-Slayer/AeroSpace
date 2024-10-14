@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AeroSpace</string>
+    <string name="mission_name">Mission Name :</string>
+    <string name="launch_year">Launch Year :</string>
+    <string name="rocket_name">Rocket Name :</string>
+    <string name="mission_details">Mission Details</string>
+</resources>
